@@ -8,7 +8,7 @@ Supported by all modern browsers: Chrome, Firefox, Opera, Safari, IE8+
 
 ![Preview](http://i.imgur.com/0PcuTbO.jpg)
 
-[Live Preview](http://abpetkov.github.io/switchery/)
+[Live Preview](https://websitebloger.github.io/switchery/)
 
 ## Installation
 
