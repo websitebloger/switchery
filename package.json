@@ -5,12 +5,12 @@
   "main": "dist/switchery.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/abpetkov/switchery.git"
+    "url": "git://github.com//websitebloger/switchery.git"
   },
   "author": "Alexander Petkov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abpetkov/switchery/issues"
+    "url": "https://github.com//websitebloger/switchery/issues"
   },
   "devDependencies": {
     "uglify-js": "~2.4.8",
